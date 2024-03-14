@@ -1,0 +1,25 @@
+git stash apply stash@{0}
+git add .
+git commit -m " "
+echo " " >> filename.txt
+git branch
+git switch -c branch name
+git branch branchname
+git switch branch_name
+git rebase
+git merge
+git status
+git log
+git log --oneline
+ls
+ls -a
+git squash
+git branch -D branch_name
+git branch -M branch_name
+git stash 
+git stash save " "
+git stash list
+git stash apply
+git stash drop
+git stash pop
+git stash clear
